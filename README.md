@@ -1,6 +1,6 @@
 Hi there !
 
-Welcome to my Cyber Security portfolio repository! This repository contains practical assignments, ethical hacking labs, and scripts completed during my Cyber Security Bootcamp at HyperionDev.
+Welcome to my Cyber Security portfolio repository! This repository contains practical assignments, ethical hacking , and scripts completed during my Cyber Security Bootcamp at HyperionDev.
 
 ## Course Overview
 The bootcamp focused on foundational and practical cybersecurity concepts, hands-on penetration testing, system administration, and secure programming practices:
